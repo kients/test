@@ -1,0 +1,6 @@
+E:\KIENTS\Tran Kien\Trần Kiên\MISA.MShopkeeperMaster\MISA.Mshopkeeper\MISA.Commons\bin\Debug\MISA.Commons.dll
+E:\KIENTS\Tran Kien\Trần Kiên\MISA.MShopkeeperMaster\MISA.Mshopkeeper\MISA.Commons\bin\Debug\MISA.Commons.pdb
+E:\KIENTS\Tran Kien\Trần Kiên\MISA.MShopkeeperMaster\MISA.Mshopkeeper\MISA.Commons\obj\Debug\MISA.Commons.csprojAssemblyReference.cache
+E:\KIENTS\Tran Kien\Trần Kiên\MISA.MShopkeeperMaster\MISA.Mshopkeeper\MISA.Commons\obj\Debug\MISA.Commons.csproj.CoreCompileInputs.cache
+E:\KIENTS\Tran Kien\Trần Kiên\MISA.MShopkeeperMaster\MISA.Mshopkeeper\MISA.Commons\obj\Debug\MISA.Commons.dll
+E:\KIENTS\Tran Kien\Trần Kiên\MISA.MShopkeeperMaster\MISA.Mshopkeeper\MISA.Commons\obj\Debug\MISA.Commons.pdb
